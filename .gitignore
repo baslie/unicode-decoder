@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Claude Code
+.claude/
+
+# Результаты обработки
+*_decoded.*
+
+# Логи
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+nul
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
